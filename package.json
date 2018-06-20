@@ -1,0 +1,40 @@
+{
+  "name": "freepats",
+  "description": "FreePats General MIDI sound set",
+  "version": "0.0.0",
+  "author": {
+    "name": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org/"
+  },
+  "bugs": {
+    "url": "https://github.com/feross/freepats/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "*",
+    "tape": "^4.9.1"
+  },
+  "homepage": "https://github.com/feross/freepats",
+  "keywords": [
+    "midi",
+    "midi player",
+    "general midi",
+    "soundfont",
+    "gus",
+    "freepats",
+    "sound set",
+    "soundset",
+    "sound font"
+  ],
+  "license": "GPLv2",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/feross/freepats.git"
+  },
+  "scripts": {
+    "build": "./tools/download.sh",
+    "test": "standard && tape test/**/*.js"
+  }
+}
