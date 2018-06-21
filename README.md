@@ -63,4 +63,4 @@ Learn more on the [FreePats About page](http://freepats.zenvoid.org/about.html).
 
 ## License
 
-MIT. Copyright (c) [Feross Aboukhadijeh](http://feross.org).
+GPLv2. Copyright (c) [Feross Aboukhadijeh](http://feross.org).
