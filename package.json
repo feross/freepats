@@ -17,15 +17,15 @@
   },
   "homepage": "https://github.com/feross/freepats",
   "keywords": [
+    "freepats",
+    "general midi",
+    "gus",
     "midi",
     "midi player",
-    "general midi",
-    "soundfont",
-    "gus",
-    "freepats",
+    "sound font",
     "sound set",
-    "soundset",
-    "sound font"
+    "soundfont",
+    "soundset"
   ],
   "license": "GPLv2",
   "main": "index.js",
