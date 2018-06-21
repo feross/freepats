@@ -19,6 +19,8 @@ rm Drum_000/*.txt
 rm Tone_000/*.txt
 
 # Remove comments from the timidity config file to save bytes
-sed -i '/^#/d' freepats.cfg
+sed '/^#/ d' < freepats.cfg > freepats-fixed.cfg
+rm freepats.cfg
+mv freepats-fixed.cfg freepats.cfg
 
 rm -rf freepats
