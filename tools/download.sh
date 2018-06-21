@@ -4,7 +4,7 @@ set -e
 
 rm -rf freepats Drum_000 Tone_000 freepats.cfg LICENSE README_FREEPATS.txt
 
-curl 'http://freepats.zenvoid.org/freepats-20060219.tar.xz' -o /tmp/freepats-20060219.tar.xz
+curl -L 'http://freepats.zenvoid.org/freepats-20060219.tar.xz' -o /tmp/freepats-20060219.tar.xz
 tar xf /tmp/freepats-20060219.tar.xz
 
 mv freepats/Drum_000 .
