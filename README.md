@@ -1,5 +1,7 @@
 # freepats
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/feross/freepats.svg)](https://greenkeeper.io/)
+
 [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
 [travis-image]: https://img.shields.io/travis/feross/freepats/master.svg
