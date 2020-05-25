@@ -13,7 +13,7 @@
   "dependencies": {},
   "devDependencies": {
     "standard": "*",
-    "tape": "^4.9.1"
+    "tape": "^5.0.1"
   },
   "homepage": "https://github.com/feross/freepats",
   "keywords": [
