@@ -1,3 +1,4 @@
+/*! freepats. GPLv2 License. Feross Aboukhadijeh <https://feross.org/opensource> */
 const path = require('path')
 
 module.exports = {

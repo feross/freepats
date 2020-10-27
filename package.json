@@ -5,7 +5,7 @@
   "author": {
     "name": "Feross Aboukhadijeh",
     "email": "feross@feross.org",
-    "url": "https://feross.org/"
+    "url": "https://feross.org"
   },
   "bugs": {
     "url": "https://github.com/feross/freepats/issues"
@@ -36,5 +36,19 @@
   "scripts": {
     "build": "./tools/download.sh",
     "test": "standard && tape test/**/*.js"
-  }
+  },
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/feross"
+    },
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/feross"
+    },
+    {
+      "type": "consulting",
+      "url": "https://feross.org/support"
+    }
+  ]
 }
